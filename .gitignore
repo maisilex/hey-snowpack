@@ -4,4 +4,4 @@ web_modules
 node_modules
 
 # custom
-index.css
+global.css
